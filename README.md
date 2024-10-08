@@ -1,1 +1,1 @@
-# Wordle_game
+# This is a replication of the NYT Wordle game. To play you must input a puzzle number to try to guess the word. after you must input a valid word and use the hints given to help to decypher the puzzle
